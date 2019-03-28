@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\admin\source\repos\test_opencv\test_opencv\setting.h(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  test_opencv.vcxproj -> C:\Users\Admin\source\repos\test_opencv\x64\Debug\test_opencv.exe
